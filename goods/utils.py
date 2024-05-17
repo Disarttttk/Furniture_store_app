@@ -21,7 +21,6 @@ def q_search(query):
             stop_sel="</span>",
         )
     )
-
     result = result.annotate(
         bodyline=SearchHeadline(
             'description',
