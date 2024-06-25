@@ -20,7 +20,7 @@
 
 ## Contact
 
-Edward Noramirian
+Borisov Kirill
 
 > Telegram: @disarttk
 > 
