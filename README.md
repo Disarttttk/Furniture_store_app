@@ -16,6 +16,7 @@
 - Django
 - PostgreSQL
 - JavaScript
+- Ajax
 - CSS
 - HTML
 
